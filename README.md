@@ -48,3 +48,8 @@ Machine Learning
 
 * Machine learning you can take courses from udmey or coursera
 
+# Machine Learning 
+
+* Supervises learning 
+* Unsupervised learning
+* Renfiocement learning
