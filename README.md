@@ -1,4 +1,4 @@
-# Step by step roadmap for machine learning engineer
+# Step by step roadmap for machine learning 
 
 Below is the step by step process of how you can start with zero knowledge and learn skills required to become machine learning engineer. Note that this will setup a solid base for you
 
